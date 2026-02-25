@@ -17,3 +17,7 @@
     </div>
 </body>
 </html>
+<div class="stats-container">
+    <span>👁️ Görlen sany: <span id="visit-count">0</span></span> | 
+    <span>📋 Nusgalanan: <span id="copy-count">0</span></span>
+</div>
