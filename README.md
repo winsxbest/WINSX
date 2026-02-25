@@ -12,7 +12,7 @@ DB_FILE = "mening_kodlarym.txt"
 # --- TÄZE KOD GOŞMAK BÖLÜMI ---
 with st.sidebar:
     st.header("➕ Täze Kod Goş")
-    bashlyk = st.text_input("Mowzugyň ady:")
+    bashlyk = st.text_input("Mowzugyň ady:ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNHBpekRickhwSFRIR2tXanlwUmM4@144.124.247.137:30380#WINSX%20%0A%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%F0%9F%87%B3%F0%9F%87%B1")
     taze_kod = st.text_area("Python kodyňyzy şu ýere ýazyň:", height=150)
     
     if st.button("Saýta goş"):
